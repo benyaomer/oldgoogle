@@ -1,0 +1,33 @@
+body{
+    margin:0 auto;
+    justify-content: center;
+    text-align: center;
+    width: 1600px;
+}
+.gg{
+    display: inline-block;
+    width: 300px;
+}
+.d1{
+    text-align: center;
+}
+.galt{
+    background-color: antiquewhite;
+    width: 1510px;
+}
+.button1{
+    width: 600px;
+    height: 25px;
+}
+.altyer{
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.div{
+    width: 300px;
+    height: 100px;
+    float: left;
+    display: inline-block;
+    margin: 2px;
+}
